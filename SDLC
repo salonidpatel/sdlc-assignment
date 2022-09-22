@@ -1,0 +1,16 @@
+  SDLC- Software developement life cycle
+  SDLC is a process used to design and develop softwares.
+  
+        STEPS
+1- PLANNING- Planning is the phase to collect the essential requirememts from the customer. the business analyst collects the information from              target customers and plans for the development of the project.
+
+2 - DEFINING- In this phase discussion and analysis is conducted and decisions are taken on the basis of cost, resources ,time etc.
+              Documentation is made which contains a detailed explaination of product requirements.
+
+3- DESIGNING- In this phase design specification is organised from the document and the project is approved to go further.
+
+4- BUILDING- In this phase developers start writing the code so that the prototype of the product can be created using some tools and         techniques.
+
+5- TESTING- In this phase testing of the product is conducted by the testing engineers. In this process bugs and defects are reported to the developers.
+
+6- DEPLOYMENT- In this phase the product is tested and developed as per requirement and then deployed in the system for use.
